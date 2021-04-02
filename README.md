@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhipluma
+- 👋 Hello, I’m @abhipluma
 - 👀 I’m interested in Python, Django, FastAPI and NodeJS
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me https://www.linkedin.com/in/abhijit-kulkarni-b1121011a/
